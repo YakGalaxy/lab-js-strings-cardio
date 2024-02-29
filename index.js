@@ -41,6 +41,7 @@ const fruit =
 
 // Your code here...
 
+console.log(fruit.slice(60, 69));
 
 /***************************************************
     Iteration 5 | Check If Strings Include a Word

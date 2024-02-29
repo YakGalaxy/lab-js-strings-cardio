@@ -7,6 +7,8 @@ const string1 = "My favorite dessert is jello";
 
 // Your code here...
 
+console.log(string1[23]);
+
 /*******************************************
     Iteration 2 | Concatenate Characters
 *******************************************/

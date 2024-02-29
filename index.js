@@ -18,6 +18,9 @@ const string2 = "ABCDEFGHJKLO";
 
 // Your code here...
 
+const newString = string2[2] + string2[11] + string2[11] + string2[10]
+console.log(newString)
+
 /*****************************************************
     Iteration 3 | Repeat a String and Concatenate
 *****************************************************/

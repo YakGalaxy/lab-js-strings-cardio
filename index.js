@@ -28,7 +28,8 @@ console.log(newString)
 
 const string3 = "Na";
 
-// Your code here...
+// Your code here...   
+console.log(`${string3.repeat(4)} Batman!`);
 
 /*******************************************
        Iteration 4 | Fruite Slice
